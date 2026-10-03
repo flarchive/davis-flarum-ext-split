@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of davis/flarum-ext-split.** Not for installation: use [Packagist](https://packagist.org/packages/davis/flarum-ext-split) or the [upstream repository](https://github.com/dav-is/flarum-ext-split).
 
-**0** versions archived · Latest: [`v0.1.0-beta3`](https://github.com/flarchive/davis-flarum-ext-split/tree/archive/v0.1.0-beta3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**3** versions archived · Latest: [`v0.1.0-beta3`](https://github.com/flarchive/davis-flarum-ext-split/tree/archive/v0.1.0-beta3) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta` | 2016-06-10 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-split/tree/archive/v0.1.0-beta) |
+| `v0.1.0-beta2` | 2016-10-06 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-split/tree/archive/v0.1.0-beta2) |
+| `v0.1.0-beta3` | 2017-03-25 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-split/tree/archive/v0.1.0-beta3) |
 
 Catalog entry: [packages/davis-flarum-ext-split.json](https://github.com/flarchive/archive-index/blob/main/packages/davis-flarum-ext-split.json)
 
